@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>my app</title>
+<font color="white">
+<h1><i><font color="red">R</font>agav Tex</h1></font>
+</head>
+<body background="images (8).jpg">
+
+
+<nav>
+<ul>
+<li><font color="white"><h3><a href="pop.htm">Home</a></li>
+<li><a href="pop1.htm">about as</a></li>
+<li><a href="pop2.htm">services</a></li>
+<li><a href="pop3.htm">workshop</a></li>
+<li><a href="pop4.htm">onlineshop</a></li>
+<li><a href="pop5.ht">contact</a></li></h3></font>
+</ul></nav>
+
+<style>
+nav ul{ list-style:none;
+background:black;
+padding:2px
+margin:5px;
+opacity:0.5;
+float:right;}
+nav ul li{
+list-style-type:none;
+margin:2px;
+padding:3px;
+width:150px;
+background-color:none;
+
+border-radius:20px;}
+nav li{
+
+display:inline-block;
+text-align:center;}
+nav a{
+text-decoration:none;
+color:white;
+widht:20px;
+display:block;
+padding:23px 20px;
+text-transform:uppercase;
+font-weight:bold;
+font-family:arial;}
+nav li a{
+ display:block;
+color:royal blue;
+padding:8px 10px;
+text-decoration:none;
+text-align:center;
+width:100px;}
+nav li a:hover{
+background-color:grey;
+width:150px;
+border:3px;
+color:yellow;}</style>
+<style>
+div{
+width:100px;
+height:100px;
+background color-red;
+animation-name:hm;
+animation-duration:10s;}
+@keyframes hm{
+from{background-color:blue}
+to{background-color:yellow}}</style>
+<div></div></html>
+
+
+
+
+
+
